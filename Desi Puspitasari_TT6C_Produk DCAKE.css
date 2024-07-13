@@ -1,0 +1,40 @@
+body {
+  padding: 0px;
+  margin: 0px;
+  font-family: Poetsen One;
+}
+h2,
+h3 {
+  color: rgb(248, 24, 24);
+}
+footer {
+  padding: 20px;
+  background-color: rgb(172, 246, 251);
+  color: white;
+  text-align: center;
+  font-weight: bold;
+}
+.gambar-artikel {
+  width: 450px;
+  max-height: 400px;
+  object-fit: cover;
+  object-position: center;
+}
+.gambar-dokum {
+  width: 200px;
+}
+main {
+  padding: 20px;
+}
+.card {
+  box-shadow: 0px 4px 8px rgb(253, 134, 134);
+  border-radius: 7px;
+  padding: 20px;
+  margin-top: 20px;
+}
+.jumbotron {
+  background-color: beige;
+  text-align: center;
+  padding: 60px;
+  color: white;
+}
